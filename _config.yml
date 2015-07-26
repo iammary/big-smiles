@@ -1,12 +1,11 @@
 # Site settings
 
-url: "http://iammary.github.io"
-baseurl : "/big-smiles"
+url: "http://bigsmilesforthelittleones.com"
 title: "{ Big Smiles for the Little Ones }"
 description: "The aim of this website is to document the events related to Big Smiles for the Little Ones in Canlawe, Calape, Bohol"
 keywords: "smiles, volunteer, bohol, earthquake, Canlawe, Calape, children, help"
-favicon: "/big-smiles/img/favicon2.ico"
-black-favicon: "/big-smiles/img/hand.png"
+favicon: "/img/favicon2.ico"
+black-favicon: "/img/hand.png"
 google-tracking-id: ""
 disqus-shortname: "bigsmilesforthelittleones"
 
@@ -20,16 +19,16 @@ pages_list:
   Timeline: 'timeline'
   Contact: 'contact'
 
-background-img: "/big-smiles/img/intro-bg.jpg"
+background-img: "/img/intro-bg.jpg"
 
 # About variables
 
-me-img: "/big-smiles/img/me.jpg"
+me-img: "/img/me.jpg"
 
 # Blog variables
 paginate: 15
 
-paginate_path: "/blog/page:num"
+paginate_path: "blog/page:num"
 
 post-preview-words: 128
 
@@ -40,24 +39,24 @@ reddit-share: True
 # Career variables
 
 events:
-  - image: "/big-smiles/img/timeline/upcoming.png"
+  - image: "/img/timeline/upcoming.png"
     date: "August 14, 2015"
     description: "Big Smiles for the Little Ones Wave 4. Our main sponsor for this event is Mr Shawn Chia of <a href=\"http://www.netsource.sg\" target=\"_blank\">Netsource Pte Ltd (Singapore)</a>"
-  - image: "/big-smiles/img/timeline/nov2014.jpg"
+  - image: "/img/timeline/nov2014.jpg"
     date: "November 28, 2014"
     description: "Big Smiles for the Little Ones Wave 3. Habagat bags and school supplies with the help of Shawn Chia, Tracey Chew and Marevic Tubang from <a href=\"http://www.netsource.sg\" target=\"_blank\">Netsource Pte Ltd (Singapore)</a>."
-  - image: "/big-smiles/img/timeline/aug2014.jpg"
+  - image: "/img/timeline/aug2014.jpg"
     date: "August 13 and 16 2014"
     description: "Big Smiles for the Little Ones Wave 2. Thanks to <a href=\"http://www.netsource.sg\" target=\"_blank\">Netsource Pte Ltd (Singapore)</a> through Mr. Shawn Chia for donating Tshirts for these Kids."
-  - image: "/big-smiles/img/timeline/feb2014.jpg"
+  - image: "/img/timeline/feb2014.jpg"
     date: "February 1, 2014"
     description: "Big Smiles for the Little Ones Wave 1 with Elementary Students, Preschool, Day Care and those aged 5 and below."
-  - image: "/big-smiles/img/timeline/earthquake.jpg"
+  - image: "/img/timeline/earthquake.jpg"
     date: "October 15, 2013"
     description: "Bohol was struck by a devastating 7.2 magnitude <a href=\"http://www.ndrrmc.gov.ph/index.php/21-disaster-events/1330-effects-of-magnitude-7-2-sagbayan-bohol-earthquake\" target=\"_blank\">earthquake</a> that killed more than 200 people."
 
 # First image of the Career timeline
-career-img: "/big-smiles/img/timeline/canlawe.jpg"
+career-img: "/img/timeline/canlawe.jpg"
 
 # Social networks variables (many more available: facebook, flickr, dribbble, pinterest, instagram, tumblr etc.)
 social:
@@ -66,7 +65,7 @@ social:
   - title: "instagram"
     url: "https://instagram.com/ishvari1985"
 
-404-img: "/big-smiles/img/labtocat.png"
+404-img: "/img/labtocat.png"
 
 # Exclusion list from the generated _site
 exclude: ["Rakefile", "LICENSE", "readme.markdown", "vendor"]
