@@ -1,6 +1,7 @@
 # Site settings
 
-url: "http://bigsmilesforthelittleones.com"
+url: "http://iammary.github.io"
+baseUrl : "big-smiles"
 title: "{ Big Smiles for the Little Ones }"
 description: "The aim of this website is to document the events related to Big Smiles for the Little Ones in Canlawe, Calape, Bohol"
 keywords: "smiles, volunteer, bohol, earthquake, Canlawe, Calape, children, help"
