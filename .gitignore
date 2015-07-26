@@ -11,3 +11,4 @@ tramp
 _site/*
 _deploy/*
 Rakefile
+.DS_Store

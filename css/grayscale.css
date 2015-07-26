@@ -49,8 +49,7 @@ p {
 }
 
 a {
-    color: #fed136;
-    /* color: #219ab3; */
+    color: #B3C7EB;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -59,8 +58,7 @@ a {
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #fec503;
-    /* color: #11505d; */
+    color: #69D2E7;
 }
 
 .light {
@@ -220,7 +218,7 @@ a:focus {
     -moz-animation-timing-function: linear;
 }
 
-@-webkit-keyframes pulse {    
+@-webkit-keyframes pulse {
     0 {
         -webkit-transform: scale(1);
         transform: scale(1);
@@ -237,7 +235,7 @@ a:focus {
     }
 }
 
-@-moz-keyframes pulse {    
+@-moz-keyframes pulse {
     0 {
         -moz-transform: scale(1);
         transform: scale(1);
@@ -393,4 +391,8 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
+}
+
+.intro-text .small {
+    color : #B3C7EB;
 }
