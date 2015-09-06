@@ -39,7 +39,7 @@ reddit-share: True
 # Career variables
 
 events:
-  - image: "/img/timeline/upcoming.png"
+  - image: "/img/timeline/jollibee.jpg"
     date: "August 14, 2015"
     description: "<a href=\"http://bigsmilesforthelittleones.com/volunteer/2015/08/14/big-smiles-for-the-little-ones-4.html\" target=\"_blank\">Big Smiles for the Little Ones Wave 4</a> Our main sponsor for this event is Mr Shawn Chia of <a href=\"http://www.netsource.sg\" target=\"_blank\">Netsource Pte Ltd (Singapore)</a>"
   - image: "/img/timeline/nov2014.jpg"
